@@ -1,4 +1,4 @@
-![image](https://843a2be0f3083c485676508ff87beaf088a889c0-www.googledrive.com/host/0B_r_WoIa581oY01QMWNVUElyM2M)
+![image](https://s.perimeterx.net/logo.png)
 
 [PerimeterX](http://www.perimeterx.com) Development Tools
 ==
